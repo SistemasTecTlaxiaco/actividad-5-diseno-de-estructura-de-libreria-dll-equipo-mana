@@ -1,0 +1,6 @@
+C:\Users\arlet\source\repos\Practica4\Practica4\bin\Debug\Practica4.dll
+C:\Users\arlet\source\repos\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.AssemblyReference.cache
+C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.dll
+C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.pdb
