@@ -4,3 +4,5 @@ C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.Assem
 C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
 C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.dll
 C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.pdb
+C:\Users\Nelsy\OneDrive\Escritorio\AplicacionConsola\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\obj\Debug\Practica4.dll
+C:\Users\Nelsy\OneDrive\Escritorio\AplicacionConsola\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\obj\Debug\Practica4.pdb

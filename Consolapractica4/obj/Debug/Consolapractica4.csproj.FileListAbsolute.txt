@@ -9,3 +9,7 @@ C:\Users\arlet\source\repos\Practica4\Consolapractica4\obj\Debug\Consolapractica
 C:\Users\arlet\source\repos\Practica4\Consolapractica4\obj\Debug\Consolapractica4.csproj.CopyComplete
 C:\Users\arlet\source\repos\Practica4\Consolapractica4\obj\Debug\Consolapractica4.exe
 C:\Users\arlet\source\repos\Practica4\Consolapractica4\obj\Debug\Consolapractica4.pdb
+C:\Users\Nelsy\OneDrive\Escritorio\AplicacionConsola\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Consolapractica4\bin\Debug\Consolapractica4.exe.config
+C:\Users\Nelsy\OneDrive\Escritorio\AplicacionConsola\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Consolapractica4\obj\Debug\Consolapractica4.exe
+C:\Users\Nelsy\OneDrive\Escritorio\AplicacionConsola\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Consolapractica4\obj\Debug\Consolapractica4.pdb
+C:\Users\Nelsy\OneDrive\Escritorio\AplicacionConsola\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Consolapractica4\obj\Debug\Consolapractica4.csprojResolveAssemblyReference.cache
