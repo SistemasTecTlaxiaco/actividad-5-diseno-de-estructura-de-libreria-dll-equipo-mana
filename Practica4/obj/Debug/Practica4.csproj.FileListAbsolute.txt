@@ -6,3 +6,15 @@ C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.dll
 C:\Users\arlet\source\repos\Practica4\Practica4\obj\Debug\Practica4.pdb
 C:\Users\Nelsy\OneDrive\Escritorio\AplicacionConsola\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\obj\Debug\Practica4.dll
 C:\Users\Nelsy\OneDrive\Escritorio\AplicacionConsola\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\obj\Debug\Practica4.pdb
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\Practica4.dll
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\Practica4.pdb
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\mscorlib.dll
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\es\mscorlib.resources.dll
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\normidna.nlp
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\normnfc.nlp
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\normnfd.nlp
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\normnfkc.nlp
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\bin\Debug\normnfkd.nlp
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\obj\Debug\Practica4.csprojResolveAssemblyReference.cache
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\obj\Debug\Practica4.dll
+C:\Users\anami\OneDrive\Escritorio\Practica 4\actividad-5-diseno-de-estructura-de-libreria-dll-equipo-mana\Practica4\obj\Debug\Practica4.pdb
