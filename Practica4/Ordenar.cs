@@ -7,6 +7,7 @@ namespace Practica4
 {
     public class Ordenar
     {
+        // lineas de codigo que nos permiten tener acceso a los diferentes platillos
         public static String Orden1(String desayunos)
         {
             return desayunos;

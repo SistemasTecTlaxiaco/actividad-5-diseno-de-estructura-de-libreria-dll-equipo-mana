@@ -9,7 +9,7 @@ namespace Consolapractica4
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)// metodo que permite ejecutar el programa
         {
             Console.WriteLine("    *HOLA BIENVENIDOS AL RESTAURANTE EL MAIZAZUL ESTAMOS A SUS ORDENES* ");
 
